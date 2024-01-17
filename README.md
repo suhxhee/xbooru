@@ -1,5 +1,5 @@
 # xbooru
-适用于个人用户使用的图库(Image Board)。
+适用于个人用户使用的图库系统(Image Board)。
 
 进度：0% （正在制作中）
 
